@@ -1,2 +1,2 @@
-# Udacity-DFND-P1
+# Udacity-DFND-Projects
 Udacity Data-Foundations Nanodegree fisrt project
