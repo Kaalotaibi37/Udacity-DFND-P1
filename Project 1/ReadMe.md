@@ -5,7 +5,10 @@ A large part of working with data is being able to interpret data visualizations
 Dashboards:
 
 Madrid in Detail
+https://classroom.udacity.com/me
 
 Malaria in Africa
+https://public.tableau.com/en-us/s/gallery/malaria-africa?gallery=featured
 
 LinkedIn Top Skills
+https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday
